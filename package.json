@@ -1,0 +1,32 @@
+{
+  "name": "normalizar-crlf",
+  "version": "0.1.0",
+  "description": "Normaliza os caracteres de fim linha de uma pasta ou dos arquivos de uma pasta",
+  "main": "normalizarCrlf.ts",
+  "scripts": {
+    "test": "teste"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viniciuspjardim/normalizar-crlf.git"
+  },
+  "keywords": [
+    "CRLF",
+    "LF",
+    "CR",
+    "Ergon"
+  ],
+  "author": "Vinícius P. Jardim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viniciuspjardim/normalizar-crlf/issues"
+  },
+  "homepage": "https://github.com/viniciuspjardim/normalizar-crlf#readme",
+  "dependencies": {
+    "iconv-lite": "^0.4.24",
+    "rimraf": "^2.6.2"
+  },
+  "devDependencies": {
+    "@types/node": "^10.12.2"
+  }
+}
