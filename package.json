@@ -1,6 +1,6 @@
 {
   "name": "normalizar-crlf",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Normaliza os caracteres de fim linha de uma pasta ou dos arquivos de uma pasta",
   "main": "normalizarCrlf.ts",
   "scripts": {

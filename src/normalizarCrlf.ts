@@ -94,7 +94,9 @@ export function main(): void {
     }
 
     console.log(
-`Este programa converte os \\r\\n (CRLF) para \\n (LF) de um arquivo ou dos
+`Normaliza CRLF versão 0.2.0
+
+Este script converte os \\r\\n (CRLF) para \\n (LF) de um arquivo ou dos
 arquivos de uma pasta. Caso ainda sobre \\r eles serão removidos.
 
     + + + + ATENÇÃO + + + +
